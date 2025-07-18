@@ -1,0 +1,72 @@
+[
+  {
+    "blog_id": "1",
+    "blog_title_img": "https://thumbs.dreamstime.com/b/blog-stamp-blog-rectangular-stamp-isolated-white-background-blog-stamp-blog-rectangular-stamp-white-background-352594749.jpg",
+    "blog_title": "The Future of UI/UX Design in 2025",
+    "author": "Adnan Khan",
+    "blog_description": "Explore the latest trends shaping the future of UI/UX design, including AI-driven interfaces and immersive experiences."
+  },
+  {
+    "blog_id": "2",
+    "blog_title_img": "https://thumbs.dreamstime.com/b/blog-sticker-blog-sign-transparent-background-blog-sticker-blog-sign-transparent-background-rectangular-button-352606229.jpg",
+    "blog_title": "Top 10 Mobile App Design Principles",
+    "author": "Sara Mehta",
+    "blog_description": "A quick guide to essential mobile design principles that ensure usability and delight for end-users."
+  },
+  {
+    "blog_id": "3",
+    "blog_title_img": "https://images.pexels.com/photos/262508/pexels-photo-262508.jpeg",
+    "blog_title": "Dark Mode: UI/UX Best Practices",
+    "author": "Rahul Sharma",
+    "blog_description": "Learn how to implement dark mode without compromising user readability or brand aesthetics."
+  },
+  {
+    "blog_id": "4",
+    "blog_title_img": "https://cdn-icons-png.flaticon.com/256/1187/1187544.png",
+    "blog_title": "Gamification in Mobile Apps",
+    "author": "Priya Desai",
+    "blog_description": "Discover how gamification elements can boost user engagement and retention in mobile apps."
+  },
+  {
+    "blog_id": "5",
+    "blog_title_img": "https://e7.pngegg.com/pngimages/556/581/png-clipart-open-blog-celebrating-literacy-free-content-us-history-teacher-classroom-charts-text-rectangle.png",
+    "blog_title": "Typography Tips for Better UX",
+    "author": "Karan Patel",
+    "blog_description": "Master typography choices that enhance readability and elevate user experience across platforms."
+  },
+  {
+    "blog_id": "6",
+    "blog_title_img": "https://thumbs.dreamstime.com/b/blog-stamp-blog-rectangular-stamp-isolated-white-background-blog-stamp-blog-rectangular-stamp-white-background-352594749.jpg",
+    "blog_title": "Building Accessible Interfaces",
+    "author": "Anjali Verma",
+    "blog_description": "A step-by-step guide to creating inclusive digital experiences for users of all abilities."
+  },
+  {
+    "blog_id": "7",
+    "blog_title_img": "https://images.pexels.com/photos/262508/pexels-photo-262508.jpeg",
+    "blog_title": "UI/UX Myths You Should Stop Believing",
+    "author": "Rohit Singh",
+    "blog_description": "Debunk common myths in UI/UX design to improve your workflow and deliver better products."
+  },
+  {
+    "blog_id": "8",
+    "blog_title_img": "https://thumbs.dreamstime.com/b/blog-sticker-blog-sign-transparent-background-blog-sticker-blog-sign-transparent-background-rectangular-button-352606229.jpg",
+    "blog_title": "Micro-Interactions: Small Details, Big Impact",
+    "author": "Sneha Kulkarni",
+    "blog_description": "Understand how micro-interactions can enhance user satisfaction and create memorable experiences."
+  },
+  {
+    "blog_id": "9",
+    "blog_title_img": "https://e7.pngegg.com/pngimages/556/581/png-clipart-open-blog-celebrating-literacy-free-content-us-history-teacher-classroom-charts-text-rectangle.png",
+    "blog_title": "UX Writing: The Power of Words",
+    "author": "Vikram Joshi",
+    "blog_description": "Learn how effective UX writing guides users, reduces friction, and improves app usability."
+  },
+  {
+    "blog_id": "10",
+    "blog_title_img": "https://cdn-icons-png.flaticon.com/256/1187/1187544.png",
+    "blog_title": "Responsive Design: Beyond Mobile-First",
+    "author": "Neha Kapoor",
+    "blog_description": "Explore strategies for building interfaces that adapt beautifully to all devices and screen sizes."
+  }
+]
